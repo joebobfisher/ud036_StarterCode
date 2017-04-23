@@ -1,6 +1,6 @@
 """entertainment-center.py is licensed under the same terms as python 2.7."""
 
-# Class from Udacity that acts as the front-end.
+# Module from Udacity that acts as the front-end.
 import fresh_tomatoes
 
 # YOUR class (media.py)
